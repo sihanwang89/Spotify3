@@ -1,0 +1,13 @@
+[project]
+name = "spotify-longevity-dashboard"
+version = "0.1.0"
+description = "A focused Streamlit dashboard for catalog-revival playlist planning"
+readme = "README.md"
+authors = [
+    { name = "sihanwang89", email = "1029414227@qq.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.1.0",
+    "streamlit>=1.66.1",
+]
